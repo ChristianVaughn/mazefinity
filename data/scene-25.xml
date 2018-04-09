@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="122" extheight="384" extwidth="544" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="320" id="25" name="World 1" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="480">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="32" c="false" group="3" id="291" name="Lvl 2 32" sx="1.0" sy="1.0" x="122" y="54" z="0"/>
+        <actor a="0.0" aid="33" c="false" group="3" id="293" name="3 33" sx="1.0" sy="1.0" x="206" y="54" z="0"/>
+        <actor a="0.0" aid="34" c="false" group="3" id="295" name="4 34" sx="1.0" sy="1.0" x="290" y="54" z="0"/>
+        <actor a="0.0" aid="35" c="false" group="3" id="317" name="5 35" sx="1.0" sy="1.0" x="374" y="54" z="0"/>
+        <actor a="0.0" aid="36" c="false" group="3" id="301" name="6 36" sx="1.0" sy="1.0" x="38" y="141" z="0"/>
+        <actor a="0.0" aid="37" c="false" group="3" id="303" name="7 37" sx="1.0" sy="1.0" x="122" y="141" z="0"/>
+        <actor a="0.0" aid="38" c="false" group="3" id="305" name="8 38" sx="1.0" sy="1.0" x="206" y="141" z="0"/>
+        <actor a="0.0" aid="39" c="false" group="3" id="307" name="9 39" sx="1.0" sy="1.0" x="290" y="141" z="0"/>
+        <actor a="0.0" aid="40" c="false" group="3" id="309" name="10 40" sx="1.0" sy="1.0" x="374" y="141" z="0"/>
+        <actor a="0.0" aid="41" c="false" group="3" id="311" name="11 41" sx="1.0" sy="1.0" x="38" y="228" z="0"/>
+        <actor a="0.0" aid="42" c="false" group="3" id="313" name="12 42" sx="1.0" sy="1.0" x="122" y="228" z="0"/>
+        <actor a="0.0" aid="43" c="false" group="3" id="315" name="13 43" sx="1.0" sy="1.0" x="206" y="228" z="0"/>
+        <actor a="0.0" aid="44" c="false" group="3" id="297" name="14 44" sx="1.0" sy="1.0" x="290" y="228" z="0"/>
+        <actor a="0.0" aid="45" c="false" group="3" id="299" name="15 45" sx="1.0" sy="1.0" x="374" y="228" z="0"/>
+        <actor a="0.0" aid="46" c="false" group="3" id="319" name="Select a Level 46" sx="1.0" sy="1.0" x="116" y="-7" z="0"/>
+        <actor a="0.0" aid="30" c="false" group="3" id="174" name="Resume LEVEL SELECT 30" sx="1.0" sy="1.0" x="-8" y="-10" z="0"/>
+        <actor a="0.0" aid="31" c="false" group="3" id="144" name="Lvl 1 31" sx="1.0" sy="1.0" x="38" y="54" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>

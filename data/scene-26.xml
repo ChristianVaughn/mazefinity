@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="141" extheight="384" extwidth="544" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="320" id="26" name="World Select Screen" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="480">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="16" c="false" group="3" id="180" name="world3 16" sx="1.0" sy="1.0" x="206" y="54" z="0"/>
+        <actor a="0.0" aid="17" c="false" group="3" id="371" name="World Select 17" sx="1.0" sy="1.0" x="116" y="-7" z="0"/>
+        <actor a="0.0" aid="18" c="false" group="3" id="182" name="world4 18" sx="1.0" sy="1.0" x="290" y="54" z="0"/>
+        <actor a="0.0" aid="13" c="false" group="3" id="188" name="Resume LEVEL SELECT Copy 13" sx="1.0" sy="1.0" x="-8" y="-11" z="0"/>
+        <actor a="0.0" aid="14" c="false" group="3" id="176" name="world1 14" sx="1.0" sy="1.0" x="38" y="54" z="0"/>
+        <actor a="0.0" aid="15" c="false" group="3" id="178" name="world2 15" sx="1.0" sy="1.0" x="122" y="54" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>
